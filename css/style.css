@@ -1,0 +1,22 @@
+a{
+    text-decoration: none;
+}
+.generator-info{
+    width: 500px;
+    margin: 40px auto;
+}
+.advanced-info{
+    width: 500px;
+    margin: 40px auto;
+}
+#charLength{
+    width: 80px;
+}
+.length p{
+    margin-top: 10px;
+}
+.errormsg{
+    color: red;
+    font-weight: bold;
+    margin-left: 10px;
+}
